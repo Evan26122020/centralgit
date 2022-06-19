@@ -1,3 +1,5 @@
 # mumbai git project
 apt install openssh
 nano /etc/ssh/sshd_config
+iperf---d 
+#include<stdio.h>
