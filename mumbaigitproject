@@ -3,3 +3,6 @@ apt install openssh
 nano /etc/ssh/sshd_config
 iperf---d 
 #include<stdio.h>
+rampson.org
+conio.h
+yum install ns-2
